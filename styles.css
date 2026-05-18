@@ -1,4 +1,4 @@
-﻿/* ===== HYBRID THEME - DARK HERO + BOHO BODY ===== */
+/* ===== HYBRID THEME - DARK HERO + BOHO BODY ===== */
 
 /* ===== PART 1: DARK HERO SECTION VARIABLES ===== */
 :root {
@@ -2658,3 +2658,12 @@ body.menu-open {
     }
 }
 
+::selection {
+    background-color: #D4A373 !important;
+    color: #2C1810 !important;
+}
+
+::-moz-selection {
+    background-color: #D4A373 !important;
+    color: #2C1810 !important;
+}
