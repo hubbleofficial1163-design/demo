@@ -18,13 +18,4 @@
 3. Настроить отправку в Google Таблицу
 4. Залить на GitHub Pages
 
-## Настройка
 
-Все основные данные меняются в начале файла `index.html`:
-
-```javascript
-const PROJECT_CONFIG = {
-    GOOGLE_SCRIPT_URL: 'ссылка-на-скрипт',
-    COUPLE_NAMES: 'Алексей & Анна',
-    WEDDING_DATE: '15 Октября 2025'
-};
